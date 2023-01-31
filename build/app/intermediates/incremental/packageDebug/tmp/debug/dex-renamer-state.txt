@@ -1,0 +1,4 @@
+#Sat Jan 28 21:18:07 PKT 2023
+base.0=E\:\\flutter work\\M-Box-Login-UI-main\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
